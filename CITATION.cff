@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the Logic-Logit paper when using this teaching implementation."
+title: "Logic-Logit: A Logic-Based Approach to Choice Modeling"
+authors:
+  - family-names: Zhang
+    given-names: Shuhan
+  - family-names: Ren
+    given-names: Wendi
+  - family-names: Li
+    given-names: Shuang
+url: "https://openreview.net/forum?id=vJgJSrYPe1"
+preferred-citation:
+  type: conference-paper
+  title: "Logic-Logit: A Logic-Based Approach to Choice Modeling"
+  authors:
+    - family-names: Zhang
+      given-names: Shuhan
+    - family-names: Ren
+      given-names: Wendi
+    - family-names: Li
+      given-names: Shuang
+  conference:
+    name: "International Conference on Learning Representations"
+  year: 2025
+  url: "https://openreview.net/forum?id=vJgJSrYPe1"
